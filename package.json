@@ -2,6 +2,7 @@
   "name": "Hotel-Booking-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://JaafarSabra.github.io/Hotel-Booking-website",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
